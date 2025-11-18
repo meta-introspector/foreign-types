@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 members = [
     "foreign-types",
     "foreign-types-macros",
